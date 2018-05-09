@@ -13,6 +13,7 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
+gem 'listen'
 
 group :doc do
   gem 'sdoc', require: false
