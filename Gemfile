@@ -4,6 +4,7 @@ ruby '2.4.1'
 gem 'rails'
 gem 'bootstrap-sass'
 gem 'sprockets'
+gem 'devise'
 
 group :development do
   gem 'sqlite3'
