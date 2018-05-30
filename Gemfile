@@ -5,6 +5,7 @@ gem 'rails'
 gem 'bootstrap-sass'
 gem 'sprockets'
 gem 'devise'
+gem 'rake'
 
 group :development do
   gem 'sqlite3'
